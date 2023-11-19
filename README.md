@@ -1,4 +1,4 @@
-# Bluestar Engine
+# Bluestar Engine (W.I.P)
 
 Bluestar is a modular 2D/3D engine focused for videogame creation written in the C/C++ language. It allows to use an interface that allows you to use a branching code system, mixed with languages such as Python, C++ or Java, depending on your choice. It's focus is to be as portable and optimized as possible.
 
